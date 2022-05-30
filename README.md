@@ -1,6 +1,6 @@
 # jnd0.dev
 
-> This is currently on beta I will update it soon
+> This will always be on beta and probably it won't be updated anytime soon
 
 ## Build Setup
 

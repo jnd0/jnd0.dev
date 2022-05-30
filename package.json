@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My solid Nuxt.js project",
   "author": "jnd0",
   "private": true,
@@ -11,8 +11,11 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "nuxt": "^2.14.0",
+    "@growthbunker/vuesocial": "^0.1.2",
+    "nuxt": "^2.13.3",
     "vue-typer": "^1.2.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@nuxt/types": "~2.15.0"
+  }
 }

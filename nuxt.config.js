@@ -33,7 +33,8 @@ export default {
   ** Plugins to load before mounting the App
   */
   plugins: [
-    {src: '~/plugins/vueTyper.js', ssr: false}
+    {src: '~/plugins/VueTyper.js', ssr: false},
+    { src: "~/plugins/VueSocial.js" }
   ],
   /*
   ** Nuxt.js dev-modules

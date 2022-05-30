@@ -1,7 +1,7 @@
 <template>
   <footer>
     <div class="footer">
-      <p> Crafted with️ ❤️ &nbsp; by jnd0 © 2020.</p>
+      <p> Crafted with &nbsp;❤️&nbsp; by jnd0 © 2022.</p>
     </div>
   </footer>
 
