@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@growthbunker/vuesocial": "^0.1.2",
-    "nuxt": "^2.15.8",
+    "nuxt": "^3.0.0",
     "vue-typer": "^1.2.0"
   },
   "devDependencies": {
