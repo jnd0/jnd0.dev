@@ -17,5 +17,8 @@
   },
   "devDependencies": {
     "@nuxt/types": "~2.15.8"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
